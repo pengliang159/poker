@@ -1,0 +1,13 @@
+/.idea/
+/logs/
+/target/
+/out/
+/*.iml
+.settings/
+/src/main/java/test
+/.project
+/.classpath
+.gradle/
+/gradle/
+/gradlew
+/gradlew.bat
